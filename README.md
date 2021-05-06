@@ -17,7 +17,7 @@ Check out my first and second projects here:
 
 My history is in marketing, with over 15 years in various roles, mainly database management and lead generation. My goal is to bridge the gap between the business knowledge and principles of marketing, and the amazing world of data and automation, through the wonder that is coding!
 
-If you'd like to know more about me,<a href="mailto:catherine.trevor@outlook.com"> please get in touch!</a>
+If you'd like to know more about me,<a href="mailto:catherinetrevor@outlook.com"> please get in touch!</a>
 
 
 <!--

@@ -7,7 +7,8 @@ I'm Catherine, a full-time student with the Code Institute, working towards a Fu
       <img src="https://simpleicons.org/icons/python.svg" width="100"><img src="https://simpleicons.org/icons/mysql.svg" width="100">
 </div>
 
-As at August 2021 I have passed my first module, my second with a merit, and third with distinction. My final project will be submitted late October.
+
+As at August 2021 I have passed my first module, my second with a **merit**, and third with **distinction**. My final project will be submitted late October.
 
 Check out my projects here:
 

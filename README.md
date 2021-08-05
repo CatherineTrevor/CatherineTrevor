@@ -7,13 +7,15 @@ I'm Catherine, a full-time student with the Code Institute, working towards a Fu
       <img src="https://simpleicons.org/icons/python.svg" width="100"><img src="https://simpleicons.org/icons/mysql.svg" width="100">
 </div>
 
-As at May 2021, I have passed my first module, my second with a merit, and in the process of preparing for my third project.
+As at August 2021 I have passed my first module, my second with a merit, and third with distinction. My final project will be submitted late October.
 
-Check out my first and second projects here:
+Check out my projects here:
 
 [Project One: Gothenburg Netball Club](https://github.com/CatherineTrevor/gothenburg-netball)
 
 [Project Two: Help Trevor Grow!](https://github.com/CatherineTrevor/help-trevor-grow)
+
+[Project Three: Lead Generation Calculator](https://github.com/CatherineTrevor/lead-generator-calculator)
 
 My history is in marketing, with over 15 years in various roles, mainly database management and lead generation. My goal is to bridge the gap between the business knowledge and principles of marketing, and the amazing world of data and automation!
 
